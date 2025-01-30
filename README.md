@@ -31,7 +31,7 @@ Aplikasi ini telah di-hosting dan dapat diakses melalui:
 4. Buka Browser
    ```bash
    localhost/phpmyadmin
-6. Import Database
+6. Import Database, tersedia database menggunakan MySQL. Di luar Directory fitkalapps
 7. Buka Tab baru masukan
    ```bash
    localhost/fitkal-app(nama folder anda)
