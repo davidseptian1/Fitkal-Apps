@@ -1,0 +1,501 @@
+[29-Jan-2025 20:42:22 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[29-Jan-2025 20:59:08 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/roti.jpg): Failed to open stream: No such file or directory in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 20:59:08 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpP2LzVX' to 'uploads/roti.jpg' in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 21:05:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/download.jpg): Failed to open stream: No such file or directory in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 21:05:17 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSn2pni' to 'uploads/download.jpg' in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 21:10:31 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/jusmangga.jpg): Failed to open stream: No such file or directory in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 21:10:31 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEPOyir' to 'uploads/jusmangga.jpg' in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 21:11:48 Asia/Jakarta] PHP Warning:  move_uploaded_file(uploads/download (1).jpg): Failed to open stream: No such file or directory in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 21:11:48 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXOw3Gl' to 'uploads/download (1).jpg' in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/admin.php on line 22
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 252
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 253
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 254
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 257
+[29-Jan-2025 21:56:12 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:56:27 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 44
+[29-Jan-2025 21:56:36 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 44
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 252
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 253
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 254
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 257
+[29-Jan-2025 21:57:17 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:57:23 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 44
+[29-Jan-2025 21:57:25 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 44
+[29-Jan-2025 21:58:16 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 44
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 252
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 253
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 254
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 257
+[29-Jan-2025 21:58:35 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:40 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 44
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 252
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 253
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 254
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 257
+[29-Jan-2025 21:58:56 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 21:59:00 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 44
+[29-Jan-2025 22:02:27 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 43 in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 284
+[29-Jan-2025 22:02:34 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 43 in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 284
+[29-Jan-2025 22:02:44 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 43 in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 284
+[29-Jan-2025 22:03:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 42
+[29-Jan-2025 22:03:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 42
+[29-Jan-2025 22:03:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 42
+[29-Jan-2025 22:03:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 42
+[29-Jan-2025 22:03:48 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 43
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 256
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 256
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 257
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 258
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 259
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 260
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 262
+[29-Jan-2025 22:04:11 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:255
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:13 Asia/Jakarta] PHP Warning:  Undefined array key "selected_items" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 43
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 256
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 256
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 257
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 258
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 259
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 260
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 262
+[29-Jan-2025 22:04:42 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:255
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:05:48 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:05:48 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:51 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:54 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:54 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:54 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:54 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:55 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:55 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:55 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:06:55 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:15 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:15 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:23 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:23 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:23 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:23 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 251
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 252
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 253
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 254
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 255
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 257
+[29-Jan-2025 22:08:53 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 250
+[29-Jan-2025 22:08:56 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:56 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:56 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:56 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:56 Asia/Jakarta] PHP Warning:  Undefined array key "gambar" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:08:56 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_recordmakanan.php on line 165
+[29-Jan-2025 22:52:39 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[29-Jan-2025 22:54:22 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[29-Jan-2025 22:56:26 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 128
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 134
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 294
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 295
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 296
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 297
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 299
+[30-Jan-2025 00:47:04 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 128
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 134
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 294
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 295
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 296
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 297
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 299
+[30-Jan-2025 00:47:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 128
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 134
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 294
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 295
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 296
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 297
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 299
+[30-Jan-2025 00:47:11 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 128
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 134
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 294
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 295
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 296
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 297
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 299
+[30-Jan-2025 00:47:12 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 128
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 134
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 294
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 295
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 296
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 297
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 299
+[30-Jan-2025 00:47:20 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 128
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Undefined variable $tdee in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 134
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 293
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 294
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 295
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 296
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 297
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 299
+[30-Jan-2025 00:47:30 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 292
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 308
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 308
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 309
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 310
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 311
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 312
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 314
+[30-Jan-2025 00:48:02 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:307
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 308
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 308
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 309
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 310
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 311
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 312
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 314
+[30-Jan-2025 00:54:29 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:307
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 307
+[30-Jan-2025 00:59:19 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 122 in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 330
+[30-Jan-2025 00:59:24 Asia/Jakarta] PHP Parse error:  Unclosed '{' on line 122 in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 330
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 01:12:17 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 01:13:21 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 391
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 391
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 392
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 393
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 394
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 395
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 397
+[30-Jan-2025 01:13:57 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:390
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 391
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 391
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 392
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 393
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 394
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 395
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 397
+[30-Jan-2025 01:14:07 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:390
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 390
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 01:15:26 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 01:15:51 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:17:33 Asia/Jakarta] PHP Warning:  Undefined array key "food" in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_api.php on line 159
+[30-Jan-2025 12:17:33 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/cek_api.php on line 159
+[30-Jan-2025 12:35:24 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[30-Jan-2025 12:59:36 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 12:59:51 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 12:59:53 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 12:59:55 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:00:02 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 13:01:31 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 13:01:42 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 345
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 346
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 347
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 348
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 349
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type int in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 351
+[30-Jan-2025 13:02:03 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 344
+[30-Jan-2025 13:02:57 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[30-Jan-2025 13:03:21 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'time_to_goal' cannot be null in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php:112
+Stack trace:
+#0 /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php(112): PDOStatement->execute()
+#1 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 112
+[30-Jan-2025 13:03:27 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'time_to_goal' cannot be null in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php:112
+Stack trace:
+#0 /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php(112): PDOStatement->execute()
+#1 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 112
+[30-Jan-2025 13:03:31 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[30-Jan-2025 13:03:49 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'time_to_goal' cannot be null in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php:112
+Stack trace:
+#0 /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php(112): PDOStatement->execute()
+#1 {main}
+  thrown in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 112
+[30-Jan-2025 13:05:32 Asia/Jakarta] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_kalori.php on line 243
+[30-Jan-2025 13:05:37 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/defc2779/public_html/fitkalapp.defbelajar.my.id/fitkal_apps/fitur_makanan.php on line 21
